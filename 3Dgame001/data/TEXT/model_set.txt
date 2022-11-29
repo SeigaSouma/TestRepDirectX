@@ -1,0 +1,154 @@
+#------------------
+# é‘
+#------------------
+MODELSET
+	TYPE = 0
+	POS = 500.0 0.0 500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = 500.0 0.0 400.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = 500.0 0.0 300.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = 400.0 0.0 500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = 300.0 0.0 500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+#------------------
+# èÇ
+#------------------
+MODELSET
+	TYPE = 1
+	POS = -500.0 0.0 500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 1
+	POS = -400.0 0.0 500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 1
+	POS = -300.0 0.0 500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 1
+	POS = -500.0 0.0 400.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 1
+	POS = -500.0 0.0 300.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+#------------------
+# ÉèÉSÉì
+#------------------
+MODELSET
+	TYPE = 2
+	POS = 500.0 0.0 -500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 2
+	POS = 400.0 0.0 -500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 2
+	POS = 300.0 0.0 -500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 2
+	POS = 500.0 0.0 -400.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 2
+	POS = 500.0 0.0 -300.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+#------------------
+# ì™
+#------------------
+MODELSET
+	TYPE = 3
+	POS = -500.0 0.0 -500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 3
+	POS = -500.0 0.0 -400.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 3
+	POS = -500.0 0.0 -300.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 3
+	POS = -400.0 0.0 -500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+MODELSET
+	TYPE = 3
+	POS = -300.0 0.0 -500.0
+	ROT = 0.0 0.0 0.0
+	LIFE = 3
+END_MODELSET
+
+END_SCRIPT		# Ç±ÇÃçsÇÕê‚ëŒè¡Ç≥Ç»Ç¢Ç±Ç∆ÅI
+
